@@ -22,7 +22,7 @@ pip install einops h5py opencv-python torchinfo scipy numpy
 
 - The model weights can be found in the weights dir.
 
-- Training and testing commands:
+- Training and testing commands (with the WDC Dataset):
 
 ```
 # train
