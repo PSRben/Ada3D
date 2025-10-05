@@ -7,7 +7,7 @@ import torch.nn.init as init
 import torch.nn.functional as F
 from einops import rearrange, repeat
 from torch.nn.init import calculate_gain
-from model.adaptive3d import Adaptive3D
+from model.pansharpening.adaptive3d import Adaptive3D
 
 
 class MultiEdge(nn.Module):
