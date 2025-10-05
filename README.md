@@ -1,4 +1,4 @@
-# Adaptive 3D Convolution for Remote Sensing Image Fusion
+# Adaptive 3D Convolution for Remote Sensing Image Fusion (Ada3D)
 
 
 # Get Started
@@ -30,4 +30,5 @@ python train.py --train_data_path ./path_to_data/Train_WDC.h5 --val_data_path ./
 # test
 python test.py --file_path ./path_to_data/name.h5 --save_dir ./path_to_dir --weight ./weights/hspansharpening/WDC/1200.pth
 ```
+
 
