@@ -1,5 +1,13 @@
-# Adaptive 3D Convolution for Remote Sensing Image Fusion (Ada3D)
+# Ada3D
+- Code for the paper: "Adaptive 3D Convolution for Remote Sensing Image Fusion", IEEE TIP, 2026.
 
+- First application of adaptive 3D convolution in image fusion.
+
+- State-of-the-art (SOTA) performance in pansharpening, hyper-spectral pansharpening, and HISR tasks.
+
+# Paper
+- For a detailed understanding of our method, please refer to the paper: [Adaptive 3D Convolution for Remote Sensing Image Fusion](https://arxiv.org/abs/2605.09455).
+- This paper has been published in the IEEE Transactions on Image Processing (TIP).
 
 # Get Started
 ## Datasets
@@ -11,7 +19,7 @@ We recommend downloading the dataset in h5py format.
 
 - Dataset for HISR: the CAVE dataset. You can find this dataset on the Internet.
 
-- Results for Ada3D and a serious of methods on PanCollection/HyperPanCollection/HISR: https://pan.baidu.com/s/1ARGLyvGKn57-eCl041Gk3g, key: 6271.
+- Results for Ada3D and a serious of methods on PanCollection/HyperPanCollection/CAVE: https://pan.baidu.com/s/1ARGLyvGKn57-eCl041Gk3g, key: 6271.
 
 ## Installation
 This project is suitable for all versions of PyTorch after 1.7.1. Besides, you need to install some other packages as below:
