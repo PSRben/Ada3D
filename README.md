@@ -19,7 +19,7 @@ We recommend downloading the dataset in h5py format.
 
 - Dataset for HISR: the CAVE dataset. You can find this dataset on the Internet.
 
-- Results for Ada3D and a serious of methods on PanCollection/HyperPanCollection/CAVE: https://pan.baidu.com/s/1ARGLyvGKn57-eCl041Gk3g, key: 6271.
+- Results for Ada3D and a series of methods on PanCollection/HyperPanCollection/CAVE: https://pan.baidu.com/s/1ARGLyvGKn57-eCl041Gk3g, key: 6271.
 
 ## Installation
 This project is suitable for all versions of PyTorch after 1.7.1. Besides, you need to install some other packages as below:
